@@ -3,7 +3,7 @@ This is a simple application for migrating from DEPRECATED version to the latest
 
 Requirements
 ------------
-* PHP 7.1.3 or higher;
+* PHP 7.4 or higher;
 * PDO-SQLite PHP extension enabled;
 
 
